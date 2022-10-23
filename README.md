@@ -1,7 +1,7 @@
 # macOs-Monterey-on-ryzen-5600x-gt710-msi-x470
 MacOS for Ryzen 5600x, MSI X470 Gaming Plus Max and Nvidia GT710
 
-![Screenshot](https://user-images.githubusercontent.com/11958134/180656776-20c9bccb-352f-42f3-82b8-e54f56516a2c.png)
+![Screenshot](https://github.com/pronabsen/macOs-Monterey-on-ryzen-5600x-gt710-msi-x470/blob/main/ScreenShot.png)
 
 Configaration: 
 
